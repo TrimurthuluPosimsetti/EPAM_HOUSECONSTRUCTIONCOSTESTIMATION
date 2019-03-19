@@ -1,0 +1,38 @@
+Input:
+Enter the Area in Square Feet:
+20
+Choose one options from below options:
+1:STANDARD
+2:ABOVE STANDARD
+3:HIGH STANDARD
+4:FULLY AUTOMATED
+1
+
+Output:
+Estimation cost for standard house of 20 square feet is 24000.0
+
+Input:
+Enter the Area in Square Feet:
+100
+Choose one options from below options:
+1:STANDARD
+2:ABOVE STANDARD
+3:HIGH STANDARD
+4:FULLY AUTOMATED
+4
+
+Output:
+Estimation cost for fully automated house of 100 square feet is 250000.0
+
+Input:
+Enter the Area in Square Feet:
+-100
+Choose one options from below options:
+1:STANDARD
+2:ABOVE STANDARD
+3:HIGH STANDARD
+4:FULLY AUTOMATED
+4
+
+Output:
+Area must be greater the zero..
